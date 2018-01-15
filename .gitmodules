@@ -1,0 +1,6 @@
+[submodule "app1"]
+	path = app1
+	url = https://github.com/mscottnelson/app1.git
+[submodule "commons"]
+	path = commons
+	url = https://github.com/mscottnelson/commons.git
